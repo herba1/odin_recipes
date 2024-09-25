@@ -7,3 +7,5 @@ Using various HTML tags like
 - list 
 - paragraphs 
 - headings
+## Extra
+Added basic CSS styling to each html page
