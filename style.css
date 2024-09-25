@@ -1,0 +1,21 @@
+* {
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+}
+#main {
+
+    padding-left: 5%;
+    padding-right: 5%; 
+    padding-bottom: 2%;
+    border: thick solid rgb(128, 210, 158);
+    background-color: rgb(164, 216, 183);
+}
+
+#header{
+text-align: center;
+border-bottom: solid;
+border-width: 5px;
+
+}
+
+
+
